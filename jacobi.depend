@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652933002 source:c:\users\nasser\documents\codeblocks\first\jacobi\main.cpp
+	<iostream>
+	<cmath>
+
